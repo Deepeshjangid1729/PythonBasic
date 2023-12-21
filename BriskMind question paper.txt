@@ -1,0 +1,23 @@
+1. WAP to print the below pattern
+	n= 46973
+		*
+		*
+		* *
+	      * * *
+	      * * *
+	    * * * *
+	    * * * * *
+	    * * * * *
+	    * * * * *
+note: do not use Array, String and collection API
+
+2. WAP to print the below series using loop
+	1,2,9,28,65,126.......for n-time
+
+3. WAP to print the below pattern usign for loop
+		 1
+ 		01
+	       1 1
+	      0  1
+	     10101
+	note:- function should be dynamic to handle nth row, means row number should be unser input.
